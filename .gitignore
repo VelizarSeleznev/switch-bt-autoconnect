@@ -1,0 +1,9 @@
+build/
+*.elf
+*.nso
+*.nsp
+*.npdm
+*.map
+*.lst
+dist/
+logs/
